@@ -27,7 +27,7 @@ Biological Micro Electronic Mechanical Systems covering contemporary efforts to 
 `Output:`
 The initial process of creating vulnerable plaque in the effectiveness of algorithms, he believes. Paul Saffo, the panel and the FIR Fat Insulin Receptor gene provides the promise of a scorpion over a corn flake bowl to describe the fear-mongering of GM protestors. Entomology, Museum of Comparative Zoology, Harvard University, described how little we know about life on Earth, and how rapidly life on Earth is slipping away from us, in terms of the insecticide required Health Systems for NASA, described some credible scenarios for exploration of the solar system during the 2020s we will create systems that have the dynamic qualities of living systems. Craig Venter, President of The Center for the Public Understanding of Science, Oxford University, said we are able to navigate through the bloodstream, have the opportunity to present my ideas on the potential
 
-`#Finally clear the temporary dictionary`
-`markovTempDic.clear! # Clear the temporary dictionary.`
+`#Finally clear the temporary dictionary`  
+`markovTempDic.clear! `
 
 
