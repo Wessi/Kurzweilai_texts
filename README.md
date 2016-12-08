@@ -5,13 +5,13 @@ This repository contains the extracted text documents from the website kurzweila
 `#import the marky_markov library in Ruby
 require 'marky_markov'
 
-'#create temporary dictionary as markovTempDic for parsing the text file
-markovTempDic = MarkyMarkov::TemporaryDictionary.new'
+#create temporary dictionary as markovTempDic for parsing the text file
+markovTempDic = MarkyMarkov::TemporaryDictionary.new
 
-'#parse the file named "the-future-of-life.txt" that i choose randomly
-markovTempDic.parse_file "the-future-of-life.txt"'
+#parse the file named "the-future-of-life.txt" that i choose randomly
+markovTempDic.parse_file "the-future-of-life.txt"
 
-'#generate some funky sentences from the parsed text file
+#generate some funky sentences from the parsed text file
 puts markovTempDic.generate_n_sentences 2`
 
 `Output:`
