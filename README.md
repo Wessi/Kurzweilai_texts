@@ -18,7 +18,7 @@ This repository contains the extracted text documents from the website kurzweila
 
 `puts markovTempDic.generate_n_sentences 2`
 
-Output:
+`Output:`
 I presented my ideas on the potential and actual environmental benefits from GM technology. Discussing the danger of a drug that will allow modeling complex biological systems, he said he was not possible with pre-GM forms of mixing genes of species extinction is now at least
 
 `puts markovTempDic.generate_n_sentences 3`
