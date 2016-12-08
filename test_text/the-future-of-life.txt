@@ -1,0 +1,96 @@
+A coming era of personalized genetic medicine, breakthroughs that  radically extend the human lifespan, nanomedicine, and the merger of our biological species with our own technology were among the future visions presented at TIME's "The Future of Life" conference.
+
+In a celebration of the 50thanniversary of the discovery of DNA,TIMEmagazine recently held a conference onThe Future of Lifethat brought together the architects of the genomic revolution to chart the future of biotech and its ramifications on mankind.
+
+Richard Dawkins, Simony Professor for the Public Understanding of Science, Oxford University, said we will have "complete genomic maps for many thousands of species by 2010." Shortly thereafter, "we should be able to put together the genome for the 'missing link' between humans and chimpanzees, or something very close, and actually bring the missing link back to life." He also speculated about bringing "Lucy" (a celebrated hominid fossil), or at least a close genetic clone of Lucy, to life. His goal: to kiss Lucy.
+
+Craig Venter, President of The Center for the Advancement of Genomics and founder of Celera, the first company to sequence the human genome, provided evidence for an exponential improvement in DNA sequencing comparable to Moore's Law in electronics.  Sequencing the human genome originally cost $3 to 5 billion. "In the last few years, we've gone from that down to less than $100 million and now because we have the genetic code once or twice, we can re-sequence all the genes in somebody for around maybe $300,000 now."
+
+It's falling in cost by a factor of two to three each year and will "within a decade, get us down to $1,000." This will open the door to fully personalized medicine, in which people will routinely scan their entire genome and keep it on a postage-stamp-sized memory device, along with their entire medical record.  This will allow medicine to focus on preventing disease, rather than just treating it once symptoms appear.
+
+Venter described the opportunities for biological forms of energy production.  A species that lives in very harsh conditions, called Archia, is very effective at converting CO2to methane or hydrogen.  A synthetic species could be devised from a synthetic chromosome that would, similar to Archia, produce hydrogen.  By modifying the genes for photosynthesis, this process could be made highly efficient.
+
+He described ways of preventing synthetic microorganisms from evolving into inadvertently destructive strains.  He also described safeguards that can be engineered to discourage tampering by bioterrorists.
+
+As we go from the genome to its expression in proteins (the "proteome"), we have a tenfold increase in complexity, he said.  The 100 trillion cells in the human body include about 300,000 proteins, so the proteome project will be far more complex than the genome project.
+
+During the session "Lifespan: How Long? How Fun?" I presented my ideas on the potential to use this and other new knowledge to radically extend the human lifespan.  The knowledge we have today may be regarded as a "bridge to a bridge to a bridge."  Most of the deaths in contemporary society are caused by degenerative processes-coronary artery disease, type II diabetes, stroke, and cancer-that can be slowed, halted, and even reversed.  This knowledge can keep us healthy until the full flowering of the biotechnology revolution, which is just now beginning to unfold.  That in turn can keep us going until we have the opportunity to literally rebuild our bodies and brains with nano-engineered methods that are far more powerful than those used by our biological systems.
+
+There are approximately ten different processes identified to underlie human aging.  In each case, we can identify emerging methods that can counteract these processes.  For example, human somatic-cell engineering will provide the means to replace our cells with telomere-extended versions, essentially rejuvenating our tissues with age-reversed versions of our cells and tissues.  As another example, the recent discovery of the "FIR" (Fat Insulin Receptor) gene provides the promise of a drug that will allow people to eat as much as they want yet remain slim while gaining the health benefits of being slim (including many of the health benefits of caloric restriction).
+
+This result has already been demonstrated in mice, and the FIR gene appears to be the same in mice and humans.  The initial process of creating vulnerable plaque in the coronary arteries has been identified and specific enzymes that would block this process, and thereby effectively halt coronary artery disease, have been described.  As we rapidly increase our understanding of the information processes underlying each disease, we will have the opportunity to develop sharply focused medications that effectively block these long-term degenerative processes.  There are developing scenarios to deal with each source of degenerative disease and aging process.
+
+With the advent of nanotechnology as applied to biology, we will gain the means for maintaining human health and vitality indefinitely.  As we reverse-engineer human biological processes, we are discovering that reengineering these processes can improve on their effectiveness many thousand-fold.  For example, a human macrophage can take hours to destroy a bacterium (I've actually watched this process with one of my own white blood cells).  Analysis of Robert Freitas' conceptual design for ananoengineered robotic macrophageshows that it could be hundreds or thousands of times more effective than a macrophage.
+
+A "respirocyte" robotic replacement for our red blood cells, also designed by Freitas, would be thousands of times more effective than its biological equivalent. With these respirocytes, we could sit at the bottom of a pool for four hours or do an Olympic sprint for 15 minutes without taking a breath.  Freitas' detailed analyses have shown the feasibility of a DNA repair robot that could reverse the progressive increase in genetic errors, another source of aging.  Ultimately, nanoengineered robots inside the human body, traveling through the bloodstream, have the potential to reverse all known disease and aging processes.
+
+I pointed out that we will make more progress over the next several decades than is expected by most observers, because of the common failure to take into consideration the exponential increase in the paradigm shift rate (rate of progress).  We're doubling the rate of progress every decade, so the next 30 years will be like 140 years of progress at today's rate of progress.
+
+The Baroness Susan Greenfield, Director of the Royal Institution of Great Britain, expressed strong skepticism for these scenarios, stating that such technology has yet to be developed, and that I was underestimating the complexity of these genetically-based processes. However, I pointed out that there is only about 30 million bytes of useful information in the human genome.
+
+Trillion times increase in hardware and software by 2030
+
+Jaron Lanier, Chief Scientist, Advanced Network and Services, Inc., composer and visual artist, and the person who coined the term "virtual reality," expressed skepticism about our ability to handle the complexity of information processes in simulating biological and neurological processes.  He asserted that we are not making exponential progress in software-compared to the rapid exponential pace of hardware (which is doubling every year or so)-and that this will be needed to handle the complexity of biological systems.
+
+He proposed a different way of organizing software to keep up with hardware's enormous growth in power: rather than engineering each module with rigid functions and interfaces, we should build each module to communicate through a pattern-recognition paradigm with other modules, pointing out that this is how biology works, allowing for softer edges to the overall competency of a very complex system.
+
+However, Bill Joy, Chief Scientist and Corporate Executive Officer, Sun Microsystems, was even more "optimistic" than I was about the ability to advance the power of software, indicating that software quality was advancing at the same exponential rate (i.e., doubling every year) as hardware. By 2010, we will see a thousand-fold increase in the price-performance of hardware, as well as a thousand-fold increase in the effectiveness of algorithms, he believes. A cellular simulation that takes a year of computation today will be able to be done in eight hours in 2010. This will allow "realistic simulations of cellular processes."
+
+This will continue and by 2030, we will see another factor of one million in hardware as well as software (in comparison to 2010), for an overall improvement of one trillion. He provided some examples of ratios of one trillion to one to provide perspective on how profound this is. A speedup of one trillion to one would reduce the entire history of the universe to one week. It is the "ratio of the power of an atomic weapon to a match head" or the "ratio of Bill Gates' wealth to a nickel." These powers of computation and algorithmic sophistication will allow "modeling complex biological systems at the level of physics by 2030."
+
+Joy was very concerned, however, with the downsides of these very powerful technologies.  He acknowledged that substantial increases in human lifespan were likely, but he was concerned with the empowerment of destructive individuals such as terrorists with these enormously powerful technologies.
+
+We need to consider today the impacts that these very powerful technologies will have in the future, he added. Some of the answers we will like, such as far more powerful treatments for disease. Some of the answers we won't like, such as providing far more powerful weapons to terrorists.
+
+Paul Saffo, the panel moderator, asked the panel and the audience how long they expected to live.  Relatively few people in the audience indicated an expectation to live past 120 years.  My response of "at least a thousand years" was definitely close to the 100 percentile mark among this group.  Assuming we all live as long as we expect to live, I should win this argument by default.
+
+Commenting on the complexity of life, Lanier expressed his long-term fascination and love for cephalopods (e.g., octopi). He made the point that despite their separate line of evolution, "some structures evolved in a very similar manner to humans." Examples include their eyes and features of their brain, including a cerebellum. Other features evolved very differently. For example, they gave up their skeletal system. An octopus can squeeze its entire body through a small hole.
+
+The Internet and multicellular life
+
+Larry Smarr, Director, California Institute of Telecommunications and Information Technology, drew a comparison between the growth of the Internet and the original evolution of multicellular life. Evolution discovered that there were advantages to organizing what had been individual cells into networks of multicellular organisms, which greatly facilitated communication among cells to improve the survival of the cells. Shortly after multicellular life started, "nervous systems evolved to further improve intercellular communication."
+
+Similarly, the Internet has hooked together what had been separate computers that can now share information over long distances, he pointed out. The growth of the Internet has many biological features and has been developing like a multicellular organism, including a nervous system.
+
+He predicted that rather than designing systems as we largely do today, we will create systems that have the dynamic qualities of living systems. This was similar to a point made by Lanier.
+
+Smarr said we are beginning to understand the coding of genes and how they express themselves in metabolic networks. We are a long way, however, from truly understanding the flows of information in complex biological systems, he said.
+
+During the session "The Next Frontier," I had the opportunity to present my ideas on the merger of our biological species with our own technology.  I pointed out that there are already many cyborgs among us.  The FDA recently approved a computerized neural implant for Parkinson's Disease that replaces the biological neurons destroyed by that disease.  This surgically implanted device communicates with its neighboring biological neurons in the same way that the original biological neurons do in the patient's "ventral posterior nucleus."
+
+As another example, there are already four major conferences on "BioMEMS" (Biological Micro Electronic Mechanical Systems) covering contemporary efforts to place tiny diagnostic and therapeutic machines in the human body and blood system.  One scientist has already cured type I Diabetes in rats with a nanoengineered device that releases insulin and blocks antibodies.  A similar approach should work in humans.  With continuing advances in miniaturization and the ongoing acceleration of the power of computation and communication technologies, during the 2020s we will be able to develop "nanobots"-tiny yet intelligent devices the size of human blood cells.  They will be able to navigate through the bloodstream, combat pathogens, and reverse human disease and aging processes.
+
+Most significantly, these nanobots will be able to directly interface non-invasively with our biological neurons to greatly expand human experience and intelligence.  By interfacing directly with our sensory system from inside the nervous system, nanobots will be able to provide full-immersion virtual reality.  By creating virtual interneuronal connections, nanobots can literally expand the 100 trillion limit on our interneuronal connections, which is where human thinking takes place.
+
+GM foods: safety concerns vs. benefits
+
+Matt White Ridley, author,Genome: The Autobiography of a Species in 23 Chapters, interviewed on stage by Phil Elmer-Dewitt, Senior Science Editor,TIMEmagazine, presented "The Case for Optimism." He pointed out how often bad things predicted from bioscience keep failing to come to pass. Genetic engineering of microbes was thought to be dangerous, he said. Genetically modified (GM) plants were also thought to be bad for the environment, yet they keep being good for it.
+
+Ridley made the point that genetically modified foods would help a return to small family farms. Large factory farms were created in part to help control pests, which is easier to do in large fields. However, GM foods allow far less pesticides to be used. This also helps the environment, the opposite of what the anti-GM movement has feared.
+
+He discussed the European position against GM foods. The Europeans feel there is nothing in it for consumers, only for big business, and in particular American big business, and there is a general distrust of big business. The opposition also reflects a European backlash against the intensification of corporate agriculture versus rural farms.
+
+Nonetheless, the mostly European participants in a panel on "The Politics of Genetically Modified (GM) Food" were distressed with the largely anti-GM stance of the European community.  Marc van Montegu cited the use of an image of a scorpion over a corn flake bowl to describe the fear-mongering of GM protestors.  He pointed out that for over 1,000 years, we've moved genes around.  Before GM technology, it was done randomly, whereas now we are able to do it more knowledgeably.  He also pointed out the potential and actual environmental benefits from GM technology.  For example, 60 million hectares of crops use the BT gene, which requires only a small fraction of the insecticide required by non-GM foods.
+
+Ingo Potrykus called European attitudes on GM "hysterical" and said they unduly focused on risks without considering benefits.  He cited the blocking of desperately needed food aid to Africa because of unfounded "health" concerns about GM foods.  He said that 24,000 people die of malnutrition each day and GM foods have the potential to ameliorate this critical problem.  He called for a more balanced approach to assessing risks and benefits.
+
+Several speakers heralded the health benefits of "golden rice," a GM food that overcomes a vitamin deficiency that causes a half million children going blind each year.
+
+Brian Halweil was the sole panelist expressing skepticism about the benefits and safety of GM food.  He argued for different forms of sustainable agriculture.  He expressed deep concern about the unintended consequences of mixing genes of species that don't ordinarily mix, something that was not possible with pre-GM forms of mixing genes.  He emphasized that there were unanswered safety questions, citing a GM soy bean crop that is more susceptible to certain fungal diseases.
+
+Discussing the danger of a terrorist bioengineering a new pathogen, Ridley said it would be very difficult to create pathogens worse than those Mother Nature has already created.
+
+Regarding human cloning, he said he was not against it in principle, but opposed it currently on safety grounds. The current cloning technology is not yet perfected and introduces genetic errors, which were evident in Dolly, who was recently euthanized, and in other cloned animals.
+
+Disappearing species
+
+Edward O. Wilson, Pulitzer Prize Winner, and Pellegrino University Research Professor and Honorary Curator in Entomology, Museum of Comparative Zoology, Harvard University, described how little we know about life on Earth, and how rapidly life on Earth is slipping away from us, in terms of the rapidly rising rate of extinct species.  He said that there are between 3.5 and 100 million species, with insects and bacteria comprising most of the unknown species.  He said if you pick up a handful of soil, you'll have five to ten thousand species in your hand, most of which are unknown.  In an acre of a field, there are about a quarter million species.
+
+According to Wilson, we also know very little about the species that inhabit the human body.  There are 300 forms of bacteria in our mouth alone, and we're still counting.
+
+Interestingly, the entire genetics field depends on the enzyme that allows polymerase chain reactions, which was discovered in the hot spring in Yellowstone National Park.
+
+Wilson said that 99 percent of all the species that ever existed are already extinct.  The average lifespan for a species is about one million years.  Before humans came along, about one species per million went extinct each year.  The rate of species extinction is now at least a thousand times higher.
+
+James Logan, Chief of Medical Informatics and Health Systems for NASA, described some credible scenarios for exploration of the solar system during the next several decades.  The future of the human civilization, according to Logan, will not be limited to the Earth.
+
