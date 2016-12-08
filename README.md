@@ -18,7 +18,7 @@ This repository contains the extracted text documents from the website kurzweila
 
 `puts markovTempDic.generate_n_sentences 3`
 
-`Biological Micro Electronic Mechanical Systems covering contemporary efforts to place tiny diagnostic and therapeutic machines in the coronary arteries has been developing like a multicellular organism, including a nervous system. This will open the door to fully personalized medicine, in which people will routinely scan their entire medical record. He argued for different forms of mixing genes of species by 2010 .  Shortly thereafter, we should build each module to communicate through a pattern-recognition paradigm with other modules, pointing out that there`
+``Biological Micro Electronic Mechanical Systems covering contemporary efforts to place tiny diagnostic and therapeutic machines in the coronary arteries has been developing like a multicellular organism, including a nervous system. This will open the door to fully personalized medicine, in which people will routinely scan their entire medical record. He argued for different forms of mixing genes of species by 2010 .  Shortly thereafter, we should build each module to communicate through a pattern-recognition paradigm with other modules, pointing out that there``
 
 `puts markovTempDic.generate_n_sentences 5`
 
