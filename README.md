@@ -1,6 +1,6 @@
 # Kurzweilai_texts
 
-This repository contains the extracted text documents from the website kurzweilai as zip file(final_texts.zip) and all the scripts used to convert the html page into text file. This readme file also shows some funky sentences generated from some randomly selected text file by using marky_markov library in Ruby.
+This repository contains the extracted text documents from the website kurzweilai as zip file([final_texts.zip](https://github.com/Wessi/Kurzweilai_texts/blob/master/final-texts.zip)) and all the scripts used to convert the html page into text file. This readme file also shows some funky sentences generated from some randomly selected text file by using marky_markov library in Ruby.
 
 `#import the marky_markov library in Ruby`  
 `require 'marky_markov'`
